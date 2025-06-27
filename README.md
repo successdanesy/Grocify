@@ -55,10 +55,8 @@ project-root/
 
 This landing page adapts seamlessly from large desktop screens to compact mobile phones, with a collapsible sidebar menu for mobile navigation.
 
-## 📦 License
+## 🙏 Attribution
 
-This project is open-source and free to use for personal or commercial purposes. Attribution appreciated!
+This landing page was inspired by a YouTube tutorial I came across while learning **Tailwind CSS**. All design credit goes to the original creator. I recreated and customized it as part of my learning and practice process.
 
----
-
-Feel free to customize this file further to match your branding or deployment info.
+If you're the original author and would prefer a specific form of credit or removal, feel free to reach out. This version is intended for educational and non-commercial demonstration purposes.
