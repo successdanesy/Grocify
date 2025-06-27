@@ -23,8 +23,6 @@ Grocify is a visually engaging, fully responsive landing page designed for a mod
 ### 📂 Sidebar Open (Mobile)
 ![Sidebar Open](screenshots/sidebar-open.png)
 
-> _Tip: Place your screenshots in a `screenshots/` folder in your project directory and name them accordingly._
-
 ## 🛠️ Built With
 
 - HTML5
